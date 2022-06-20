@@ -2,8 +2,8 @@
     display: flex
 }
 body {
-    /* display: flex; */
-    /* flex-direction: column; */
+    display: flex;
+    flex-direction: column;
     background-color:antiquewhite;
 }
 .headingOne {
