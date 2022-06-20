@@ -82,7 +82,7 @@ float: left
 .image1 {
     min-height: 100vh;
     width: 100%;
-    background-image: url(paul-tune-beX9TcypcR8-unsplash.jpg);
+    background-image: url(./piccies/paul-tune-beX9TcypcR8-unsplash.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -90,7 +90,7 @@ float: left
 .image2 {
     min-height: 100vh;
     width: 100%;
-    background-image: url(fer-nando-UMC5sfWci78-unsplash.jpg);
+    background-image: url(./piccies/fer-nando-UMC5sfWci78-unsplash.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -100,7 +100,7 @@ float: left
 .image3 {
     min-height: 100vh;
     width: 100%;
-    background-image: url(gary-bendig-WPmPsdX2ySw-unsplash.jpg);
+    background-image: url(./piccies/gary-bendig-WPmPsdX2ySw-unsplash.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
